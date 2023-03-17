@@ -22,4 +22,8 @@ fun main (args: Array<String>){
         println(namaLengkap)
         println(alamat)
         println(umur)
+
+        var namaLengkap2 = "Budianto"
+        namaLengkap2 = "ahmad Budianto"
+        println(namaLengkap2)
 }
