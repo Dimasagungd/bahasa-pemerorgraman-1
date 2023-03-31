@@ -12,18 +12,24 @@
 //
 //}
 
+//fun main (args: Array<String>){
+//        var namaLengkap: String = "budianto"
+//        var alamat: String
+//        alamat = "yogyakarta"
+//
+//        var umur = 22
+//
+//        println(namaLengkap)
+//        println(alamat)
+//        println(umur)
+//
+//        var namaLengkap2 = "Budianto"
+//        namaLengkap2 = "ahmad Budianto"
+//        println(namaLengkap2)
+//}
+
 fun main (args: Array<String>){
-        var namaLengkap: String = "budianto"
-        var alamat: String
-        alamat = "yogyakarta"
+        var bilangan = 10
 
-        var umur = 22
-
-        println(namaLengkap)
-        println(alamat)
-        println(umur)
-
-        var namaLengkap2 = "Budianto"
-        namaLengkap2 = "ahmad Budianto"
-        println(namaLengkap2)
+        println(bilangan::class.qualifiedName)
 }
